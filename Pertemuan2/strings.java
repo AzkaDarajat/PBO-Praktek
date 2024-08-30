@@ -14,9 +14,8 @@ public class strings {
         String last = akhir.substring(0, 1).toUpperCase() + akhir.substring(1);
 
         /* Bagian untuk menghitung jumlah character dengan menggabungkan kedua kata */
-        String kata = awal + akhir;
-        int hitung = kata.length();
-        System.out.printf("%d", hitung);
+        int kata = awal.length() + akhir.length();
+        System.out.printf("%d", kata);
 
         System.out.println(" ");
 
