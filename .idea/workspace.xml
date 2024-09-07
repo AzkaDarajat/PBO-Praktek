@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ae96fbf-44a5-497a-ac15-ef8899220f55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Pertemuan1/Task1/bin/Soal2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan1/Task1/bin/Soal2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pertemuan1/Task1/src/Soal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pertemuan1/Task1/src/Soal2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +20,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Pertemuan1/Task1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AzkaDarajat"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AzkaDarajat/PBO-Praktek.git",
+    "accountId": "ccb4684e-603b-4a83-9c47-ff89b359fb9a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2l078hM1qMYJsLJFWpGQ7p9gQBu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Polban/Semester3/PBOPraktek/Pertemuan1"
+    "last_opened_file_path": "C:/Polban/Semester3/PBO/PBOPraktek/Pertemuan3"
   }
 }]]></component>
   <component name="RunDashboard">
@@ -50,7 +61,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Soal1">
     <configuration name="Soal1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Soal1" />
       <module name="PBOPraktek" />
