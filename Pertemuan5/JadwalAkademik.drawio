@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
+  <diagram name="Page-1" id="zhct5ZqOZyk7v6Y9ZuI6">
+    <mxGraphModel dx="2438" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="iCT4v7e3FqG6FUR5w9AB-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-11.000000000000114" y="530" as="targetPoint" />
+            <mxPoint x="164" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="164" y="520" />
+              <mxPoint x="10" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="105" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.493;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iCT4v7e3FqG6FUR5w9AB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="500" as="sourcePoint" />
+            <mxPoint x="320" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="164" y="520" />
+              <mxPoint x="320" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-2" value="Mahasiswa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-4" value="Matkul" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-13" value="Dosen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-14" value="JadwalAkademik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="iCT4v7e3FqG6FUR5w9AB-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="320" as="sourcePoint" />
+            <mxPoint x="510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="320" as="sourcePoint" />
+            <mxPoint x="600" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-17" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="160" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.331;exitY=-0.04;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="404.60000000000025" y="399.9999999999999" as="sourcePoint" />
+            <mxPoint x="404.88" y="322.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="iCT4v7e3FqG6FUR5w9AB-23" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="320" as="sourcePoint" />
+            <mxPoint x="840" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-23" value="Jadwal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-120" y="160" as="sourcePoint" />
+            <mxPoint x="-120" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="592" as="sourcePoint" />
+            <mxPoint x="770" y="152" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-26" value="Specialization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iCT4v7e3FqG6FUR5w9AB-27" value="Generalization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
