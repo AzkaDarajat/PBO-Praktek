@@ -1,0 +1,16 @@
+==========================================
+               LAPORAN TRANSAKSI          
+==========================================
+
+Nama      : Azka Darajat
+Alamat    : Jl. Pentaconta
+No Telp   : 0821221842
+Pesanan   : Steak, Spaghetti, Pizza, 
+Total     : Rp 1500000
+------------------------------------------
+
+==========================================
+       TERIMA KASIH TELAH BERTRANSAKSI    
+==========================================
+
+
